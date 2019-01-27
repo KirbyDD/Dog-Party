@@ -10,7 +10,7 @@ This project was to make a static duplication of the given comp.
 
 
 ## My comp
-<img width="725" alt="screen shot 2019-01-27 at 4 30 18 pm" src="https://user-images.githubusercontent.com/36940278/51808439-f2569780-2250-11e9-9fb0-27f347eb0a01.png">
+<img width="729" alt="screen shot 2019-01-27 at 4 42 19 pm" src="https://user-images.githubusercontent.com/36940278/51808569-de139a00-2252-11e9-9a57-f83248cdaa5e.png">
 
 
 ##### Set Up
@@ -19,4 +19,4 @@ This project was to make a static duplication of the given comp.
 * Open `index.html` in your browser
 ---
 
-_(**Turing School of Software & Design Front-end Engineering project - Mod 1:** Comp assesment to showcase skills in HTML, CSS, and design fundamentals.)_
+_(**Turing School of Software & Design Front-end Engineering project - Mod 1:** Comp assesment to showcase skills in HTML, CSS, Javascript, and design fundamentals.)_
