@@ -15,8 +15,8 @@ This project was to make a static duplication of the given comp.
 
 ##### Set Up
 
-* Duplicate this project
+* Clone this project
 * Open `index.html` in your browser
 ---
 
-_(**Turing School of Software & Design Front-end Engineering project - Mod 1:** Final comp assesment to showcase skills in HTML, CSS, and design fundamentals.)_
+_(**Turing School of Software & Design Front-end Engineering project - Mod 1:** Comp assesment to showcase skills in HTML, CSS, and design fundamentals.)_
