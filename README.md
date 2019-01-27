@@ -1,6 +1,6 @@
 # Dog-Party
 
-##Mod 1 Dog Party Assignment
+## Mod 1 Dog Party Assignment
 
 This project was to make a static duplication of the given comp. 
 
